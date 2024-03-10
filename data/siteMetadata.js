@@ -1,23 +1,18 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Strategy Synergy: Navigating Products, Politics, and Progress',
+  title: 'Product Synergy',
   author: 'Nevindra Ibnazhifi',
   headerTitle: 'PolicymakerPM',
   description: 'This blog is designed for thinkers and doers who seek to understand how political dynamics shape business environments and how strategic foresight can lead to product innovation and market leadership.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://blog-post-umber.vercel.app/',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'nevindra.i@gmail.com',
-  github: 'https://github.com',
-  twitter: 'https://x.com/nezhifi',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
+  twitter: 'https://twitter.com/nezhifi',
+  linkedin: 'https://www.linkedin.com/in/nevindra/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
