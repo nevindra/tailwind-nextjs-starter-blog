@@ -9,7 +9,7 @@ const siteMetadata = {
   siteUrl: 'https://nevindra.com/',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/hehe.png',
   email: 'nevindra.i@gmail.com',
   twitter: 'https://twitter.com/nezhifi',
   linkedin: 'https://www.linkedin.com/in/nevindra/',
