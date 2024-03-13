@@ -2,11 +2,11 @@
 const siteMetadata = {
   title: 'Product Synergy',
   author: 'Nevindra Ibnazhifi',
-  headerTitle: 'PolicymakerPM',
-  description: 'This blog is designed for thinkers and doers who seek to understand how political dynamics shape business environments and how strategic foresight can lead to product innovation and market leadership.',
+  headerTitle: 'Nevindra',
+  description: "Focused on product management and business strategies, this blog occasionally explores the intersection with Indonesian politics, offering insights for navigating the tech industry's complexities and the impact of political dynamics on business operations.",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://blog-post-umber.vercel.app/',
+  siteUrl: 'https://nevindra.com/',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',

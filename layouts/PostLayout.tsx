@@ -49,7 +49,9 @@ export default function PostLayout({ content, authorDetails, next, prev, childre
                   </dd>
                 </div>
               </dl>
-              <span>{readingTime.text}</span>
+              <span className='mr-3 text-sm font-medium uppercase text-primary-500 hover:text-primary-600 dark:hover:text-primary-400'>
+                {readingTime.text}
+                </span>
               <div>
                 <PageTitle>{title}</PageTitle>
               </div>
